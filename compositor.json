@@ -41,15 +41,6 @@
   },
   "content": [
     {
-      "component": "nav",
-      "links": [
-        {
-          "href": "https://github.com/paulrnovak/portfolio-site",
-          "text": "GitHub"
-        }
-      ]
-    },
-    {
       "component": "header",
       "heading": "portfolio-site",
       "subhead": "My ongoing portfolio site design",
